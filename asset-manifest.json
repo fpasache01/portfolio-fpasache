@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-fpasache/90s-portfolio/static/css/main.6e1d051b.css",
+    "main.js": "/portfolio-fpasache/90s-portfolio/static/js/main.2676ed9c.js",
+    "static/js/453.73e164cd.chunk.js": "/portfolio-fpasache/90s-portfolio/static/js/453.73e164cd.chunk.js",
+    "index.html": "/portfolio-fpasache/90s-portfolio/index.html",
+    "main.6e1d051b.css.map": "/portfolio-fpasache/90s-portfolio/static/css/main.6e1d051b.css.map",
+    "main.2676ed9c.js.map": "/portfolio-fpasache/90s-portfolio/static/js/main.2676ed9c.js.map",
+    "453.73e164cd.chunk.js.map": "/portfolio-fpasache/90s-portfolio/static/js/453.73e164cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e1d051b.css",
+    "static/js/main.2676ed9c.js"
+  ]
+}
