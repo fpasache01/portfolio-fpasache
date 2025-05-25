@@ -4,17 +4,17 @@ import { Route, Routes } from 'react-router-dom';
 
 const About = () => {
   const { t } = useTranslation();
-  return <div>{t('about')} content goes here...</div>;
+  return <div>{t('about')}</div>;
 };
 
 const Projects = () => {
   const { t } = useTranslation();
-  return <div>{t('projects')} content goes here...</div>;
+  return <div>{t('projects')}</div>;
 };
 
 const Skills = () => {
   const { t } = useTranslation();
-  return <div>{t('skills')} content goes here...</div>;
+  return <div>{t('skillsDetails')}</div>;
 };
 
 const Contact = () => {

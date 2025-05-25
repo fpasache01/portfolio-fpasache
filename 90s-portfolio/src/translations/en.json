@@ -1,11 +1,12 @@
 {
-  "name": "Felipe Estuardo Pasache Rivas",
-  "contact": "Contact",
-  "phone1": "+569 7317 6207",
-  "phone2": "+1 438 449 2310",
-  "email": "fpasache1995@gmail.com",
-  "welcome": "Welcome to my 90s style portfolio!",
-  "about": "About Me",
-  "projects": "Projects",
-  "skills": "Skills"
+    "name": "Felipe Estuardo Pasache Rivas",
+    "contact": "Contact",
+    "phone1": "+569 7317 6207",
+    "phone2": "+1 438 449 2310",
+    "email": "fpasache1995@gmail.com",
+    "welcome": "Welcome to my 90s style portfolio!",
+    "about": "About Me",
+    "projects": "Projects",
+    "skills": "Skills",
+    "skillsDetails": "Backend: .NET Core, C#, Java | Frontend: Angular, React | Databases: SQL Server, Oracle | Cloud: Azure"
 }
