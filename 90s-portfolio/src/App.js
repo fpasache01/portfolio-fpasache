@@ -10,7 +10,8 @@ import './i18n';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/90s-portfolio">
+
       <div className="App">
         <LanguageSwitcher />
         <Header />
